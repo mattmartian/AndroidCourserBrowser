@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project - Matthew Martin 000338807</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string name ="courseprompt">Select a Course For More information</string>
+    <string name ="dlUnuccessful">Download Unsuccessful</string>
+
+
+    <string name ="programprompt">Pick a Program From the Nav Drawer</string>
+    <string name ="semesterchosen">You have Chosen Semester </string>
+    <string name ="semesterprompt">Please select a semester</string>
+    <string name ="databaserefresh">Database Refreshed</string>
+    <string name ="recorderror">Erro inserting records</string>
+
+
+
+</resources>
